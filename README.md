@@ -89,6 +89,13 @@ git pull <remote_name> <branch_name>
 git push <remote_name> <branch_name>
 ```
 
+### Configure username and email
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
 ## Empower Your Team
 
 🛠️ Empower your team with a consistent and organized development process! 🛠️
