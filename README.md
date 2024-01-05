@@ -4,22 +4,22 @@ Master version control and enhance your project development with our comprehensi
 
 ## Commit Types:
 
-- **feat:** Introduce new features
-- **fix:** Resolve bugs
-- **docs:** Documentation changes
-- **style:** Non-functional changes
-- **refactor:** Enhance code structure
-- **perf:** Optimize performance
-- **test:** Add missing tests
-- **chore:** Modify build processes
+-   **feat:** Introduce new features
+-   **fix:** Resolve bugs
+-   **docs:** Documentation changes
+-   **style:** Non-functional changes
+-   **refactor:** Enhance code structure
+-   **perf:** Optimize performance
+-   **test:** Add missing tests
+-   **chore:** Modify build processes
 
 ## Branch Strategy:
 
-- **Master:** Stable, production-ready code
-- **Develop:** Main development branch
-- **Feature:** For specific new features
-- **Release:** Prepares for production release
-- **Hotfix:** Addresses critical bugs, allows ongoing development
+-   **Master:** Stable, production-ready code
+-   **Develop:** Main development branch
+-   **Feature:** For specific new features
+-   **Release:** Prepares for production release
+-   **Hotfix:** Addresses critical bugs, allows ongoing development
 
 ## Essential Git Commands:
 
@@ -89,15 +89,13 @@ git pull <remote_name> <branch_name>
 git push <remote_name> <branch_name>
 ```
 
-### Configure username and email
+### Configure username and email globally
 
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-## Empower Your Team
+## Contributions
 
-🛠️ Empower your team with a consistent and organized development process! 🛠️
-
-Feel free to customize this guide based on your team's specific needs and workflow preferences.
+Feel free to contribute to this Git Workflow Guide by adding new Git tips, improving existing content, or suggesting better practices. Create a pull request or open an issue to share your ideas!
